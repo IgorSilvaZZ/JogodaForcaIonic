@@ -1,0 +1,63 @@
+@font-face {
+    font-family: conthrax;
+    src: url("src/assets/fonts/conthrax-sb.ttf");
+}
+body{
+    background-image: url("src/assets/img/fut1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+.score{
+    background-color: #30336b;
+    opacity: 0.6;
+    border-radius: 10%;
+    width: 22%;
+    height: 7%;
+    color: white;
+    margin-left: 5%;
+    margin-top: -3%;
+    text-align: center;
+    font-family: conthrax;
+    font-size: 14px;
+}
+.forca{
+    /* width: 50%;
+    height: 30%; */
+    margin-left: 35%;
+}
+.palavra{
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+}
+.jogador{
+    margin-top: 20%;
+}
+#letra{
+    text-align: center;
+    width: 50%;
+    margin-left: 28%;
+    border: 2px #aaa;
+    border-radius: 4px;
+    background-color: white;
+}
+#botao{
+    margin-top: 2%;
+    margin-left: 42%;
+    /* background-color: #6c5ce7 */;
+    border-radius: 5%;
+}
+.letras{
+    background-color: #30336b;
+    opacity: 0.6;
+    border-radius: 10%;
+    width: 40%;
+    height: 10%;
+    color: white;
+    font-family: conthrax;
+    font-size: 14px;
+    margin-left: 5%;
+}
